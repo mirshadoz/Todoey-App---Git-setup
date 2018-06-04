@@ -24,5 +24,9 @@ class ViewController: UIViewController {
         print("Button is pressed!!! :)))")
     }
     
+    override func didChangeValue(forKey key: String) {
+        
+    }
+    
 }
 
